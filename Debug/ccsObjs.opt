@@ -1,0 +1,1 @@
+"./F28027_I2C_LCD.obj" "./F28027_I2C_LCD_main.obj" "../F28027.cmd" "../F2802x_Headers_nonBIOS.cmd" "../driverlib.lib" -llibc.a 
